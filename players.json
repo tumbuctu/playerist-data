@@ -1,0 +1,65 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2870
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww24640\viewh25100\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 [\
+  \{\
+    "id": "Q55316049",\
+    "name": "Erling Haaland",\
+    "searchTokens": ["Haaland", "Erling", "Majin Buu"],\
+    "hints": ["Es noruego", "Su padre tambi\'e9n jug\'f3 en la Premier League", "Gan\'f3 el triplete con Guardiola"],\
+    "career": [\
+      \{\
+        "clubName": "Bryne FK",\
+        "years": "2016 \'97 2017",\
+        "logoURL": "https://upload.wikimedia.org/wikipedia/commons/6/66/Bryne_FK_logo.svg"\
+      \},\
+      \{\
+        "clubName": "Molde FK",\
+        "years": "2017 \'97 2019",\
+        "logoURL": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Molde_FK_logo.svg"\
+      \},\
+      \{\
+        "clubName": "Red Bull Salzburg",\
+        "years": "2019 \'97 2020",\
+        "logoURL": "https://upload.wikimedia.org/wikipedia/en/a/a3/FC_Red_Bull_Salzburg_logo.svg"\
+      \},\
+      \{\
+        "clubName": "Borussia Dortmund",\
+        "years": "2020 \'97 2022",\
+        "logoURL": "https://upload.wikimedia.org/wikipedia/commons/6/67/Borussia_Dortmund_logo.svg"\
+      \},\
+      \{\
+        "clubName": "Manchester City",\
+        "years": "2022 \'97 Presente",\
+        "logoURL": "https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg"\
+      \}\
+    ]\
+  \},\
+  \{\
+    "id": "Q615",\
+    "name": "Lionel Messi",\
+    "searchTokens": ["Messi", "Leo", "Pulga"],\
+    "hints": ["Gan\'f3 el Mundial en 2022", "Tiene 8 Balones de Oro", "Sali\'f3 de la cantera de Newells"],\
+    "career": [\
+      \{\
+        "clubName": "F.C. Barcelona",\
+        "years": "2004 \'97 2021",\
+        "logoURL": "https://upload.wikimedia.org/wikipedia/en/4/47/FC_Barcelona_\uc0\u65288 logo\u65289 .svg"\
+      \},\
+      \{\
+        "clubName": "Paris Saint-Germain",\
+        "years": "2021 \'97 2023",\
+        "logoURL": "https://upload.wikimedia.org/wikipedia/en/a/a7/Paris_Saint-Germain_F.C._DK_logo.svg"\
+      \},\
+      \{\
+        "clubName": "Inter Miami",\
+        "years": "2023 \'97 Presente",\
+        "logoURL": "https://upload.wikimedia.org/wikipedia/en/5/5c/Inter_Miami_CF_logo.svg"\
+      \}\
+    ]\
+  \}\
+]}
